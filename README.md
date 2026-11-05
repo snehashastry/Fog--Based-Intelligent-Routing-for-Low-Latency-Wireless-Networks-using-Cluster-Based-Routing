@@ -1,0 +1,2 @@
+# Fog--Based-Intelligent-Routing-for-Low-Latency-Wireless-Networks-using-Cluster-Based-Routing
+We propose a web-based simulation and decision-support platform for 6G fog-computing networks. It supports cluster generation, efficient routing, AI-based attack detection, D2D power and bandwidth allocation, media performance evaluation, and prediction analytics to improve network security, efficiency, and resource utilization.
